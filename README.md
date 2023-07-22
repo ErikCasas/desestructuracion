@@ -57,7 +57,7 @@ const [primero, segundo] = nombres;
                        de donde vendran
 ```
 
-<img src="https://blog.rahulbhutani.com/wp-content/uploads/2020/05/50acac918c.jpg" width="500px">
+<img src="https://blog.rahulbhutani.com/wp-content/uploads/2020/05/50acac918c.jpg" width="500px" margin-right="80px">
 
 El spread operator es una forma de recorrer iterables como lo son los arrays y manipular su contenido de forma mas rapida y sencilla, siendo una forma de desempaquetar o "desmenuzar" un **_array_** (también se puede con objetos "{ }"), para tener mas claridad, vamos a analizar el siguiente ejemplo:
 
