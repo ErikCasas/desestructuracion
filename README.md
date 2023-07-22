@@ -84,6 +84,6 @@ console.log(tareas); //=>["leer","correr", "aprender Js", "ver Max steel"]
 
 ```javascript
 const tares = ["leer", "correr", "aprender Js"];
-const nuevasTareas = [...tareas, "ver Max steel"]
-console.log(nuevasTareas); //=>["leer","correr", "aprender Js", "ver Max steel"]
+tareas = [...tareas, "ver Max steel"]
+console.log(tareas); //=>["leer","correr", "aprender Js", "ver Max steel"]
 ```
