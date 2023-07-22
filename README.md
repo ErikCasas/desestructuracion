@@ -11,7 +11,7 @@ como siempre para saber un poco más adetalle sobre la desestrucutación lo más
 La desestructuración en Arrays, quiere decir que solo vamos a desempaquetar ciertos
 valores de un array y guardar esos valores en variables independientes
 
-Entonces antes de desestructurar un array vamos a realizar un pequeño ejemplo sobre como son alguna interacciones con los arrays en **_JavaScript_**, recordando que la funcionalidad de estos es alamcenar distintos tipos de datos en una misma variable
+Entonces antes de desestructurar un array vamos a realizar un pequeño ejemplo sobre como son algunas interacciones con los arrays en **_JavaScript_**, recordando que la funcionalidad de estos es alamcenar distintos tipos de datos en una misma variable
 
 ```javascript
 const unaFuncion = () => {
@@ -57,7 +57,7 @@ const [primero, segundo] = nombres;
                        de donde vendran
 ```
 
-<img src="https://blog.rahulbhutani.com/wp-content/uploads/2020/05/50acac918c.jpg" width="500px" margin-left="80px">
+<img src="https://blog.rahulbhutani.com/wp-content/uploads/2020/05/50acac918c.jpg" width="500px">
 
 El spread operator es una forma de recorrer iterables como lo son los arrays y manipular su contenido de forma mas rapida y sencilla, siendo una forma de desempaquetar o "desmenuzar" un **_array_** (también se puede con objetos "{ }"), para tener mas claridad, vamos a analizar el siguiente ejemplo:
 
@@ -87,3 +87,6 @@ const tares = ["leer", "correr", "aprender Js"];
 tareas = [...tareas, "ver Max steel"]
 console.log(tareas); //=>["leer","correr", "aprender Js", "ver Max steel"]
 ```
+
+
+# Este readme sigue en construccion 
